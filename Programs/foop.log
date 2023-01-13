@@ -1,0 +1,482 @@
+11月 21, 2022 3:19:13 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 21, 2022 3:19:26 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 21, 2022 3:19:41 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 26, 2022 11:15:15 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 26, 2022 11:15:44 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 26, 2022 11:16:09 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 26, 2022 11:37:46 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 26, 2022 11:38:06 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 26, 2022 11:40:25 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 26, 2022 11:40:51 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 27, 2022 3:05:16 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 27, 2022 3:05:49 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 27, 2022 4:51:47 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=45 Address=127.0.0.1 Port=61433
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 45 IP: /127.0.0.1 port: 61433 Successfully Registered
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=61434
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 61434 Successfully Registered
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=62 Address=127.0.0.1 Port=61435
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 62 IP: /127.0.0.1 port: 61435 Successfully Registered
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: The FOOPSerevr unable to parse received message: Register packet is small
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:52 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 27, 2022 4:51:53 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=61438
+11月 27, 2022 4:51:53 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: Client MSG ID: 46 IP: /127.0.0.1 port: 61438 Incorrect port
+11月 27, 2022 4:51:53 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 27, 2022 4:51:53 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 61438 Successfully Registered
+11月 27, 2022 4:51:53 下午 foop.app.server.FOOPServer receiveOtherMessage
+警告: Received unexpected message type: 3
+11月 28, 2022 5:34:25 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 29, 2022 10:46:23 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=45 Address=127.0.0.1 Port=59395
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 45 IP: /127.0.0.1 port: 59395 Successfully Registered
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=59396
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 59396 Successfully Registered
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=62 Address=127.0.0.1 Port=59397
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 62 IP: /127.0.0.1 port: 59397 Successfully Registered
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleRegisterInfo
+警告: The FOOPSerevr unable to parse received message: Register packet is small
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:26 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 10:46:27 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=56358
+11月 29, 2022 10:46:27 上午 foop.app.server.FOOPServer handleRegisterInfo
+警告: Client MSG ID: 46 IP: /127.0.0.1 port: 56358 Incorrect port
+11月 29, 2022 10:46:27 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 29, 2022 10:46:27 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 56358 Successfully Registered
+11月 29, 2022 10:46:27 上午 foop.app.server.FOOPServer receiveOtherMessage
+警告: Received unexpected message type: 3
+11月 29, 2022 3:01:45 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 29, 2022 3:07:40 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 29, 2022 3:19:09 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 29, 2022 3:19:30 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=50 Address=192.168.10.192 Port=56460
+11月 29, 2022 3:19:30 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 29, 2022 3:19:30 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 50 IP: /192.168.10.192 port: 56460 Successfully Registered
+11月 29, 2022 3:19:50 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 3:20:14 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 3:21:20 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 3:21:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=171 Address=192.168.10.192 Port=56415
+11月 29, 2022 3:21:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 29, 2022 3:21:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 171 IP: /192.168.10.192 port: 56415 Successfully Registered
+11月 29, 2022 3:22:13 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 3:22:13 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 3:22:46 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 3:22:46 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 29, 2022 3:26:14 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 29, 2022 3:53:14 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 9:20:09 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 9:20:30 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 9:21:07 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 9:21:17 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 4:08:25 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 4:08:41 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 4:09:30 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 4:09:42 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 4:20:51 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=45 Address=127.0.0.1 Port=60966
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 45 IP: /127.0.0.1 port: 60966 Successfully Registered
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=60967
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 60967 Successfully Registered
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=62 Address=127.0.0.1 Port=60968
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 62 IP: /127.0.0.1 port: 60968 Successfully Registered
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: The FOOPSerevr unable to parse received message: Register packet is small
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:20:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 4:21:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=52858
+11月 30, 2022 4:21:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: Client MSG ID: 46 IP: /127.0.0.1 port: 52858 Incorrect port
+11月 30, 2022 4:21:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 4:21:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 52858 Successfully Registered
+11月 30, 2022 4:21:00 下午 foop.app.server.FOOPServer receiveOtherMessage
+警告: Received unexpected message type: 3
+11月 30, 2022 8:06:17 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 8:06:33 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 8:16:41 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 8:17:18 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=45 Address=127.0.0.1 Port=57649
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 45 IP: /127.0.0.1 port: 57649 Successfully Registered
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=57650
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 57650 Successfully Registered
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=62 Address=127.0.0.1 Port=57651
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 62 IP: /127.0.0.1 port: 57651 Successfully Registered
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: The FOOPSerevr unable to parse received message: Register packet is small
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:22 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+11月 30, 2022 8:17:23 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=57654
+11月 30, 2022 8:17:23 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: Client MSG ID: 46 IP: /127.0.0.1 port: 57654 Incorrect port
+11月 30, 2022 8:17:23 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+11月 30, 2022 8:17:23 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 57654 Successfully Registered
+11月 30, 2022 8:17:23 下午 foop.app.server.FOOPServer receiveOtherMessage
+警告: Received unexpected message type: 3
+11月 30, 2022 8:22:23 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+11月 30, 2022 8:22:42 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 02, 2022 4:12:08 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 02, 2022 4:12:21 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 02, 2022 4:12:48 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=45 Address=127.0.0.1 Port=53584
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 45 IP: /127.0.0.1 port: 53584 Successfully Registered
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=53585
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 53585 Successfully Registered
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=62 Address=127.0.0.1 Port=53586
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 62 IP: /127.0.0.1 port: 53586 Successfully Registered
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: The FOOPSerevr unable to parse received message: Register packet is small
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:12:59 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:13:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=53589
+12月 02, 2022 4:13:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: Client MSG ID: 46 IP: /127.0.0.1 port: 53589 Incorrect port
+12月 02, 2022 4:13:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:13:00 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 53589 Successfully Registered
+12月 02, 2022 4:13:00 下午 foop.app.server.FOOPServer receiveOtherMessage
+警告: Received unexpected message type: 3
+12月 02, 2022 4:14:08 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=45 Address=127.0.0.1 Port=65177
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 45 IP: /127.0.0.1 port: 65177 Successfully Registered
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=65178
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 65178 Successfully Registered
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=62 Address=127.0.0.1 Port=65179
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 62 IP: /127.0.0.1 port: 65179 Successfully Registered
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: The FOOPSerevr unable to parse received message: Register packet is small
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:17 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 02, 2022 4:14:18 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=65182
+12月 02, 2022 4:14:18 下午 foop.app.server.FOOPServer handleRegisterInfo
+警告: Client MSG ID: 46 IP: /127.0.0.1 port: 65182 Incorrect port
+12月 02, 2022 4:14:18 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 02, 2022 4:14:18 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 65182 Successfully Registered
+12月 02, 2022 4:14:18 下午 foop.app.server.FOOPServer receiveOtherMessage
+警告: Received unexpected message type: 3
+12月 02, 2022 4:14:55 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 02, 2022 4:15:38 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 05, 2022 8:38:12 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 05, 2022 8:38:43 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 05, 2022 8:38:56 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 05, 2022 8:39:36 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 05, 2022 8:39:49 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 05, 2022 8:40:18 上午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=45 Address=127.0.0.1 Port=63191
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 45 IP: /127.0.0.1 port: 63191 Successfully Registered
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=63192
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 63192 Successfully Registered
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=62 Address=127.0.0.1 Port=63193
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 62 IP: /127.0.0.1 port: 63193 Successfully Registered
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleRegisterInfo
+警告: The FOOPSerevr unable to parse received message: Register packet is small
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:28 上午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 05, 2022 8:40:29 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=46 Address=127.0.0.1 Port=63196
+12月 05, 2022 8:40:29 上午 foop.app.server.FOOPServer handleRegisterInfo
+警告: Client MSG ID: 46 IP: /127.0.0.1 port: 63196 Incorrect port
+12月 05, 2022 8:40:29 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 05, 2022 8:40:29 上午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 46 IP: /127.0.0.1 port: 63196 Successfully Registered
+12月 05, 2022 8:40:29 上午 foop.app.server.FOOPServer receiveOtherMessage
+警告: Received unexpected message type: 3
+12月 08, 2022 12:09:24 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 08, 2022 12:10:07 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 08, 2022 12:14:31 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 08, 2022 12:15:03 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=54 Address=192.168.10.192 Port=50161
+12月 08, 2022 12:15:03 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 08, 2022 12:15:03 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 54 IP: /192.168.10.192 port: 50161 Successfully Registered
+12月 08, 2022 12:16:19 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....
+12月 08, 2022 12:16:23 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Register: MsgID=135 Address=192.168.10.192 Port=61598
+12月 08, 2022 12:16:23 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Message has sent to client
+12月 08, 2022 12:16:23 下午 foop.app.server.FOOPServer handleRegisterInfo
+信息: Client MSG ID: 135 IP: /192.168.10.192 port: 61598 Successfully Registered
+12月 08, 2022 12:16:26 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 08, 2022 12:16:26 下午 foop.app.server.FOOPServer handleAddition
+信息: An item has been added and told to all registered clients.
+12月 08, 2022 12:17:23 下午 foop.app.server.FOOPServer startFOOPServer
+信息: FOOP Server Starting.....

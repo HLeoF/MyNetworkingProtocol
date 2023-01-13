@@ -1,0 +1,970 @@
+11月 29, 2022 3:53:18 下午 fiat.app.server.ServerAIO loggingInfo
+警告: The Server accept a client: /127.0.0.1:55106
+11月 29, 2022 3:53:27 下午 fiat.app.server.ServerAIO loggingInfo
+警告: The Server receive Add message from Client: /127.0.0.1:55106
+11月 29, 2022 3:53:27 下午 fiat.app.server.ServerAIO loggingInfo
+警告: The Server send a message to Client: /127.0.0.1:55106
+11月 29, 2022 3:53:29 下午 fiat.app.server.ServerAIO loggingInfo
+警告: The Server receive GET message from Client: /127.0.0.1:55106
+11月 29, 2022 3:53:29 下午 fiat.app.server.ServerAIO loggingInfo
+警告: The Server send a message to Client: /127.0.0.1:55106
+11月 29, 2022 3:53:33 下午 fiat.app.server.ServerAIO loggingInfo
+警告: The Server receive Interval message form Client: /127.0.0.1:55106
+11月 29, 2022 3:53:33 下午 fiat.app.server.ServerAIO loggingInfo
+警告: The Server send a message to Client: /127.0.0.1:55106
+11月 29, 2022 3:53:35 下午 fiat.app.server.ServerAIO loggingInfo
+警告: Get the client's address has problem
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50437-50437 with thread id 18
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50437-50437 GET (TS=1669821622261)
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50437-50437 GET (TS=1669821622261)
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50437-50437 LIST (TS=1669821622277) last mod=0, list={}
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50437-50437 with thread id 18
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50438-50438 with thread id 18
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50438-50438 ADD (TS=1669821622303) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50438-50438 ADD (TS=1669821622303) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50438-50438 LIST (TS=1669821622303) last mod=1669821622308, list={xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50438-50438 ADD (TS=1669821622323) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50438-50438 ADD (TS=1669821622323) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50438-50438 LIST (TS=1669821622323) last mod=1669821622324, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 9:20:22 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50438-50438 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50443-50443 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50443-50443 GET (TS=1669821636268)
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50443-50443 GET (TS=1669821636268)
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50443-50443 LIST (TS=1669821636269) last mod=1669821622324, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50443-50443 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50444-50444 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50444-50444 ADD (TS=1669821636303) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50444-50444 ADD (TS=1669821636303) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50444-50444 LIST (TS=1669821636303) last mod=1669821636305, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50444-50444 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50445-50445 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50445-50445 GET (TS=1669821636311)
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50445-50445 GET (TS=1669821636311)
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50445-50445 LIST (TS=1669821636311) last mod=1669821636305, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50445-50445 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50446-50446 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50446-50446 ERROR (TS=1669821636316) message=x
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:50446-50446 Unexpected message type
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:50446-50446 LIST (TS=1669821636317) last mod=1669821636305, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50446-50446 GET (TS=1669821636320)
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50446-50446 GET (TS=1669821636320)
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50446-50446 LIST (TS=1669821636319) last mod=1669821636305, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50446-50446 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50447-50447 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50447-50447 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50448-50448 with thread id 18
+11月 30, 2022 9:20:36 上午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:50448-50448 with thread id 18
+11月 30, 2022 9:20:43 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50450-50450 with thread id 18
+11月 30, 2022 9:20:43 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50450-50450 GET (TS=1669821643142)
+11月 30, 2022 9:20:43 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50450-50450 GET (TS=1669821643142)
+11月 30, 2022 9:20:43 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50450-50450 LIST (TS=1669821643143) last mod=1669821636305, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 9:20:43 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50450-50450 with thread id 18
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50453-50453 with thread id 18
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50453-50453 GET (TS=1669821671412)
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50453-50453 GET (TS=1669821671412)
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50453-50453 LIST (TS=1669821671414) last mod=0, list={}
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50453-50453 with thread id 18
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50454-50454 with thread id 18
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50454-50454 ADD (TS=1669821671441) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50454-50454 ADD (TS=1669821671441) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50454-50454 LIST (TS=1669821671441) last mod=1669821671446, list={xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50454-50454 ADD (TS=1669821671452) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50454-50454 ADD (TS=1669821671452) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50454-50454 LIST (TS=1669821671452) last mod=1669821671453, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 9:21:11 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50454-50454 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50459-50459 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50459-50459 GET (TS=1669821681286)
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50459-50459 GET (TS=1669821681286)
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50459-50459 LIST (TS=1669821681290) last mod=1669821671453, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50459-50459 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50460-50460 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50460-50460 ERROR (TS=1669821681299) message=x
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:50460-50460 Unexpected message type
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:50460-50460 LIST (TS=1669821681299) last mod=1669821671453, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50460-50460 GET (TS=1669821681302)
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50460-50460 GET (TS=1669821681302)
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50460-50460 LIST (TS=1669821681302) last mod=1669821671453, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50460-50460 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50461-50461 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50461-50461 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50462-50462 with thread id 18
+11月 30, 2022 9:21:21 上午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:50462-50462 with thread id 18
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53051-53051 with thread id 18
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53051-53051 GET (TS=5)
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53051-53051 GET (TS=5)
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53051-53051 LIST (TS=1669846113403) last mod=0, list={}
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53051-53051 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53051-53051 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53051-53051 LIST (TS=5) last mod=1669846113530, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+11月 30, 2022 4:08:33 下午 fiat.app.server.operator handle
+警告: Unable to parse message/127.0.0.1:53051-53051 with thread id 18
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53053-53053 with thread id 18
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53053-53053 GET (TS=5)
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53053-53053 GET (TS=5)
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53053-53053 LIST (TS=1669846124375) last mod=1669846113530, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53053-53053 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53053-53053 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53053-53053 LIST (TS=5) last mod=1669846124383, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53053-53053 with thread id 18
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53054-53054 with thread id 18
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53054-53054 ERROR (TS=5) message=x
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:53054-53054 Unexpected message type
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:53054-53054 LIST (TS=1669846124386) last mod=1669846124383, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53054-53054 GET (TS=5)
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53054-53054 GET (TS=5)
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53054-53054 LIST (TS=1669846124389) last mod=1669846124383, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53054-53054 with thread id 18
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53055-53055 with thread id 18
+11月 30, 2022 4:08:44 下午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:53055-53055 with thread id 18
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53063-53063 with thread id 18
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53063-53063 GET (TS=1669846175161)
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53063-53063 GET (TS=1669846175161)
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53063-53063 LIST (TS=1669846175163) last mod=0, list={}
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53063-53063 with thread id 18
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53064-53064 with thread id 18
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53064-53064 ADD (TS=1669846175190) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53064-53064 ADD (TS=1669846175190) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53064-53064 LIST (TS=1669846175190) last mod=1669846175195, list={xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53064-53064 ADD (TS=1669846175200) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53064-53064 ADD (TS=1669846175200) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53064-53064 LIST (TS=1669846175200) last mod=1669846175201, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 4:09:35 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53064-53064 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53066-53066 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53066-53066 GET (TS=1669846185137)
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53066-53066 GET (TS=1669846185137)
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53066-53066 LIST (TS=1669846185141) last mod=1669846175201, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53066-53066 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53067-53067 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53067-53067 ERROR (TS=1669846185152) message=x
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:53067-53067 Unexpected message type
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:53067-53067 LIST (TS=1669846185153) last mod=1669846175201, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53067-53067 GET (TS=1669846185156)
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53067-53067 GET (TS=1669846185156)
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53067-53067 LIST (TS=1669846185156) last mod=1669846175201, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53067-53067 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53068-53068 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53068-53068 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53069-53069 with thread id 18
+11月 30, 2022 4:09:45 下午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:53069-53069 with thread id 18
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53296-53296 with thread id 18
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53296-53296 LIST (TS=5) last mod=1669846859472, list={1 2 with 40 calories and 1g of fat eaten at Dinner}
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53296-53296 LIST (TS=7) last mod=1669846859476, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast}
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53296-53296 LIST (TS=7) last mod=1669846859479, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53296-53296 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 4:20:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53296-53296 LIST (TS=7) last mod=1669846859485, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+11月 30, 2022 4:21:00 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53296-53296 with thread id 18
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53007-53007 with thread id 18
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53007-53007 GET (TS=1669860382771)
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53007-53007 GET (TS=1669860382771)
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53007-53007 LIST (TS=1669860382773) last mod=0, list={}
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53007-53007 with thread id 18
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53008-53008 with thread id 18
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53008-53008 ADD (TS=1669860382818) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53008-53008 ADD (TS=1669860382818) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53008-53008 LIST (TS=1669860382818) last mod=1669860382824, list={xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53008-53008 ADD (TS=1669860382830) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53008-53008 ADD (TS=1669860382830) item=abc with 45 calories and 1g of fat eaten at Snack
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53008-53008 LIST (TS=1669860382830) last mod=1669860382832, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 8:06:22 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53008-53008 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53010-53010 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53010-53010 GET (TS=1669860396863)
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53010-53010 GET (TS=1669860396863)
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53010-53010 LIST (TS=1669860396866) last mod=1669860382832, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53010-53010 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53011-53011 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53011-53011 ERROR (TS=1669860396878) message=x
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:53011-53011 Unexpected message type
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:53011-53011 LIST (TS=1669860396878) last mod=1669860382832, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53011-53011 GET (TS=1669860396881)
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53011-53011 GET (TS=1669860396881)
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53011-53011 LIST (TS=1669860396881) last mod=1669860382832, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53011-53011 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53012-53012 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53012-53012 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53013-53013 with thread id 18
+11月 30, 2022 8:06:36 下午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:53013-53013 with thread id 18
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53133-53133 with thread id 18
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53133-53133 GET (TS=1669861006731)
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53133-53133 GET (TS=1669861006731)
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53133-53133 LIST (TS=1669861006733) last mod=1669860382832, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53133-53133 with thread id 18
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53134-53134 with thread id 20
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53134-53134 ADD (TS=1669861006857) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53134-53134 ADD (TS=1669861006857) item=xyz with 3 calories and 6g of fat eaten at Dinner
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53134-53134 LIST (TS=1669861006857) last mod=1669861006858, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53134-53134 with thread id 20
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53135-53135 with thread id 22
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53135-53135 GET (TS=1669861006864)
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53135-53135 GET (TS=1669861006864)
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53135-53135 LIST (TS=1669861006865) last mod=1669861006858, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53135-53135 with thread id 22
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53136-53136 with thread id 24
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53136-53136 ERROR (TS=1669861006872) message=x
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:53136-53136 Unexpected message type
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:53136-53136 LIST (TS=1669861006873) last mod=1669861006858, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53136-53136 GET (TS=1669861006877)
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53136-53136 GET (TS=1669861006877)
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53136-53136 LIST (TS=1669861006876) last mod=1669861006858, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack,xyz with 3 calories and 6g of fat eaten at Dinner}
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53136-53136 with thread id 24
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53137-53137 with thread id 18
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53138-53138 with thread id 20
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53137-53137 with thread id 18
+11月 30, 2022 8:16:46 下午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:53138-53138 with thread id 20
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53144-53144 with thread id 18
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53144-53144 LIST (TS=5) last mod=1669861042769, list={1 2 with 40 calories and 1g of fat eaten at Dinner}
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53144-53144 LIST (TS=7) last mod=1669861042773, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast}
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53144-53144 LIST (TS=7) last mod=1669861042776, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53144-53144 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+11月 30, 2022 8:17:22 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53144-53144 LIST (TS=7) last mod=1669861042782, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+11月 30, 2022 8:17:23 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53144-53144 with thread id 18
+11月 30, 2022 8:22:27 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53209-53209 with thread id 18
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53209-53209 GET (TS=5)
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53209-53209 GET (TS=5)
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53209-53209 LIST (TS=1669861347976) last mod=0, list={}
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53209-53209 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53209-53209 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53209-53209 LIST (TS=5) last mod=1669861348191, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53209-53209 ADD (TS=5) item=1 ? with 40 calories and 1g of fat eaten at Dinner
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53209-53209 ADD (TS=5) item=1 ? with 40 calories and 1g of fat eaten at Dinner
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53209-53209 LIST (TS=5) last mod=1669861348194, list={xyz with 3 calories and 5g of fat eaten at Dinner,1 ? with 40 calories and 1g of fat eaten at Dinner}
+11月 30, 2022 8:22:28 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53209-53209 with thread id 18
+11月 30, 2022 8:22:42 下午 fiat.app.server.Server readItem
+警告: item file corrupted
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53211-53211 with thread id 18
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53211-53211 GET (TS=5)
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53211-53211 GET (TS=5)
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53211-53211 LIST (TS=1669861366548) last mod=1669861348194, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53211-53211 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53211-53211 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53211-53211 LIST (TS=5) last mod=1669861366557, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53211-53211 with thread id 18
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53212-53212 with thread id 18
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53212-53212 ERROR (TS=5) message=x
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:53212-53212 Unexpected message type
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:53212-53212 LIST (TS=1669861366560) last mod=1669861366557, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53212-53212 GET (TS=5)
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:53212-53212 GET (TS=5)
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:53212-53212 LIST (TS=1669861366563) last mod=1669861366557, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:53212-53212 with thread id 18
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:53213-53213 with thread id 18
+11月 30, 2022 8:22:46 下午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:53213-53213 with thread id 18
+12月 02, 2022 4:12:12 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:64854-64854 with thread id 18
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64854-64854 GET (TS=5)
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64854-64854 GET (TS=5)
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64854-64854 LIST (TS=1670019132957) last mod=0, list={}
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64854-64854 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64854-64854 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64854-64854 LIST (TS=5) last mod=1670019133184, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64854-64854 ADD (TS=5) item=1 ? with 40 calories and 1g of fat eaten at Dinner
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64854-64854 ADD (TS=5) item=1 ? with 40 calories and 1g of fat eaten at Dinner
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64854-64854 LIST (TS=5) last mod=1670019133187, list={xyz with 3 calories and 5g of fat eaten at Dinner,1 ? with 40 calories and 1g of fat eaten at Dinner}
+12月 02, 2022 4:12:13 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:64854-64854 with thread id 18
+12月 02, 2022 4:12:21 下午 fiat.app.server.Server readItem
+警告: item file corrupted
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:64856-64856 with thread id 18
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64856-64856 GET (TS=5)
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64856-64856 GET (TS=5)
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64856-64856 LIST (TS=1670019143786) last mod=1670019133187, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64856-64856 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64856-64856 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64856-64856 LIST (TS=5) last mod=1670019143796, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:64856-64856 with thread id 18
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:64857-64857 with thread id 18
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64857-64857 ERROR (TS=5) message=x
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:64857-64857 Unexpected message type
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:64857-64857 LIST (TS=1670019143799) last mod=1670019143796, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64857-64857 GET (TS=5)
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64857-64857 GET (TS=5)
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64857-64857 LIST (TS=1670019143802) last mod=1670019143796, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:64857-64857 with thread id 18
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:64858-64858 with thread id 18
+12月 02, 2022 4:12:23 下午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:64858-64858 with thread id 18
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:64862-64862 with thread id 18
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64862-64862 LIST (TS=5) last mod=1670019179334, list={1 2 with 40 calories and 1g of fat eaten at Dinner}
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64862-64862 LIST (TS=7) last mod=1670019179338, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast}
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64862-64862 LIST (TS=7) last mod=1670019179341, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:64862-64862 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 02, 2022 4:12:59 下午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:64862-64862 LIST (TS=7) last mod=1670019179347, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+12月 02, 2022 4:13:00 下午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:64862-64862 with thread id 18
+12月 02, 2022 4:14:08 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64871
+12月 02, 2022 4:14:17 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64871
+12月 02, 2022 4:14:55 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 02, 2022 4:15:03 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64878
+12月 02, 2022 4:15:04 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64878
+12月 02, 2022 4:15:04 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64878
+12月 02, 2022 4:15:04 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64878
+12月 02, 2022 4:15:04 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64878
+12月 02, 2022 4:15:04 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64878
+12月 02, 2022 4:15:04 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64878
+12月 02, 2022 4:15:38 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 02, 2022 4:15:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64885
+12月 02, 2022 4:15:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64885
+12月 02, 2022 4:15:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64885
+12月 02, 2022 4:15:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64885
+12月 02, 2022 4:15:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64885
+12月 02, 2022 4:15:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64885
+12月 02, 2022 4:15:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64885
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64886
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64886
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64886
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64886
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64886
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64887
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64887
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64887
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64887
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64888
+12月 02, 2022 4:15:44 下午 fiat.app.server.ServerAIO loggingWarn
+警告: Unexpected version send from the Client: /127.0.0.1:64888
+12月 05, 2022 8:38:12 上午 fiat.app.server.Server readItem
+警告: item file corrupted
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50656-50656 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50656-50656 GET (TS=1670251106013)
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50656-50656 GET (TS=1670251106013)
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50656-50656 LIST (TS=1670251106014) last mod=1670019341858, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50656-50656 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50657-50657 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50657-50657 ADD (TS=1670251106064) item=xyz with 3 calories and 6g of fat eaten at Dinner
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50657-50657 ADD (TS=1670251106064) item=xyz with 3 calories and 6g of fat eaten at Dinner
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50657-50657 LIST (TS=1670251106064) last mod=1670251106066, list={xyz with 3 calories and 5g of fat eaten at Dinner,xyz with 3 calories and 6g of fat eaten at Dinner}
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50657-50657 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50658-50658 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50658-50658 GET (TS=1670251106073)
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50658-50658 GET (TS=1670251106073)
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50658-50658 LIST (TS=1670251106073) last mod=1670251106066, list={xyz with 3 calories and 5g of fat eaten at Dinner,xyz with 3 calories and 6g of fat eaten at Dinner}
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50658-50658 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50659-50659 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50659-50659 ERROR (TS=1670251106079) message=x
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:50659-50659 Unexpected message type
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:50659-50659 LIST (TS=1670251106080) last mod=1670251106066, list={xyz with 3 calories and 5g of fat eaten at Dinner,xyz with 3 calories and 6g of fat eaten at Dinner}
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50659-50659 GET (TS=1670251106083)
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50659-50659 GET (TS=1670251106083)
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50659-50659 LIST (TS=1670251106083) last mod=1670251106066, list={xyz with 3 calories and 5g of fat eaten at Dinner,xyz with 3 calories and 6g of fat eaten at Dinner}
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50659-50659 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50660-50660 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50660-50660 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50661-50661 with thread id 18
+12月 05, 2022 8:38:26 上午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:50661-50661 with thread id 18
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50666-50666 with thread id 18
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50666-50666 GET (TS=1670251127883)
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50666-50666 GET (TS=1670251127883)
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50666-50666 LIST (TS=1670251127884) last mod=0, list={}
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50666-50666 with thread id 18
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50667-50667 with thread id 18
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50667-50667 ADD (TS=1670251127911) item=xyz with 3 calories and 6g of fat eaten at Dinner
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50667-50667 ADD (TS=1670251127911) item=xyz with 3 calories and 6g of fat eaten at Dinner
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50667-50667 LIST (TS=1670251127911) last mod=1670251127917, list={xyz with 3 calories and 6g of fat eaten at Dinner}
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50667-50667 ADD (TS=1670251127923) item=abc with 45 calories and 1g of fat eaten at Snack
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50667-50667 ADD (TS=1670251127923) item=abc with 45 calories and 1g of fat eaten at Snack
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50667-50667 LIST (TS=1670251127923) last mod=1670251127924, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+12月 05, 2022 8:38:47 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50667-50667 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50669-50669 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50669-50669 GET (TS=1670251141065)
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50669-50669 GET (TS=1670251141065)
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50669-50669 LIST (TS=1670251141069) last mod=1670251127924, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50669-50669 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50670-50670 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50670-50670 ERROR (TS=1670251141079) message=x
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:50670-50670 Unexpected message type
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:50670-50670 LIST (TS=1670251141079) last mod=1670251127924, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50670-50670 GET (TS=1670251141082)
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50670-50670 GET (TS=1670251141082)
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50670-50670 LIST (TS=1670251141082) last mod=1670251127924, list={xyz with 3 calories and 6g of fat eaten at Dinner,abc with 45 calories and 1g of fat eaten at Snack}
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50670-50670 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50671-50671 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50671-50671 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50672-50672 with thread id 18
+12月 05, 2022 8:39:01 上午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:50672-50672 with thread id 18
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50677-50677 with thread id 18
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50677-50677 GET (TS=5)
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50677-50677 GET (TS=5)
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50677-50677 LIST (TS=1670251180543) last mod=0, list={}
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50677-50677 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50677-50677 ADD (TS=5) item=xyz with 3 calories and 5g of fat eaten at Dinner
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50677-50677 LIST (TS=5) last mod=1670251180764, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50677-50677 ADD (TS=5) item=1 ? with 40 calories and 1g of fat eaten at Dinner
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50677-50677 ADD (TS=5) item=1 ? with 40 calories and 1g of fat eaten at Dinner
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50677-50677 LIST (TS=5) last mod=1670251180767, list={xyz with 3 calories and 5g of fat eaten at Dinner,1 ? with 40 calories and 1g of fat eaten at Dinner}
+12月 05, 2022 8:39:40 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50677-50677 with thread id 18
+12月 05, 2022 8:39:49 上午 fiat.app.server.Server readItem
+警告: item file corrupted
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50679-50679 with thread id 18
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50679-50679 GET (TS=5)
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50679-50679 GET (TS=5)
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50679-50679 LIST (TS=1670251192849) last mod=1670251180767, list={xyz with 3 calories and 5g of fat eaten at Dinner}
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50679-50679 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50679-50679 ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50679-50679 LIST (TS=5) last mod=1670251192856, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50679-50679 with thread id 18
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50680-50680 with thread id 18
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50680-50680 ERROR (TS=5) message=x
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+警告: Received message from/127.0.0.1:50680-50680 Unexpected message type
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+警告: Send message from/127.0.0.1:50680-50680 LIST (TS=1670251192860) last mod=1670251192856, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50680-50680 GET (TS=5)
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50680-50680 GET (TS=5)
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50680-50680 LIST (TS=1670251192862) last mod=1670251192856, list={xyz with 3 calories and 5g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50680-50680 with thread id 18
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50681-50681 with thread id 18
+12月 05, 2022 8:39:52 上午 fiat.app.server.operator handle
+警告: Unexpected Version Received/127.0.0.1:50681-50681 with thread id 18
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: New Connection /127.0.0.1:50688-50688 with thread id 18
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=5) item=1 2 with 40 calories and 1g of fat eaten at Dinner
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50688-50688 LIST (TS=5) last mod=1670251228207, list={1 2 with 40 calories and 1g of fat eaten at Dinner}
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50688-50688 LIST (TS=7) last mod=1670251228211, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast}
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50688-50688 LIST (TS=7) last mod=1670251228213, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Received message from/127.0.0.1:50688-50688 ADD (TS=7) item=xy with 4 calories and 2g of fat eaten at Breakfast
+12月 05, 2022 8:40:28 上午 fiat.app.server.operator handle
+信息: Send message from/127.0.0.1:50688-50688 LIST (TS=7) last mod=1670251228219, list={1 2 with 40 calories and 1g of fat eaten at Dinner,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast,xy with 4 calories and 2g of fat eaten at Breakfast}
+12月 05, 2022 8:40:29 上午 fiat.app.server.operator handle
+信息: Close connection /127.0.0.1:50688-50688 with thread id 18
+12月 08, 2022 12:09:24 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 08, 2022 12:09:46 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64602
+12月 08, 2022 12:09:47 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64602
+12月 08, 2022 12:09:47 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64602
+12月 08, 2022 12:09:47 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64602
+12月 08, 2022 12:09:47 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64602
+12月 08, 2022 12:09:47 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64602
+12月 08, 2022 12:09:47 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64602
+12月 08, 2022 12:10:07 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64608
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64608
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64608
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64608
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64608
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64609
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64609
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64609
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64609
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64610
+12月 08, 2022 12:10:11 下午 fiat.app.server.ServerAIO loggingWarn
+警告: Unexpected version send from the Client: /127.0.0.1:64610
+12月 08, 2022 12:14:31 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 08, 2022 12:14:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64651
+12月 08, 2022 12:14:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64651
+12月 08, 2022 12:14:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64651
+12月 08, 2022 12:14:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64651
+12月 08, 2022 12:14:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64651
+12月 08, 2022 12:14:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64651
+12月 08, 2022 12:14:41 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64651
+12月 08, 2022 12:16:19 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 08, 2022 12:16:26 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64671
+12月 08, 2022 12:16:26 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64671
+12月 08, 2022 12:16:26 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64671
+12月 08, 2022 12:16:26 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64671
+12月 08, 2022 12:16:26 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64671
+12月 08, 2022 12:16:26 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64671
+12月 08, 2022 12:16:26 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64671
+12月 08, 2022 12:17:23 下午 fiat.app.server.ServerAIO main
+信息: FOOP Sever started
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64678
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64678
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64678
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive Add message from Client: /127.0.0.1:64678
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64678
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64679
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64679
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server receive GET message from Client: /127.0.0.1:64679
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server send a message to Client: /127.0.0.1:64679
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingInfo
+信息: The Server accept a client: /127.0.0.1:64680
+12月 08, 2022 12:17:32 下午 fiat.app.server.ServerAIO loggingWarn
+警告: Unexpected version send from the Client: /127.0.0.1:64680
