@@ -1,9 +1,3 @@
-/************************************************
-*
-* Assignment: Program 5
-* Class: CSI 4321
-*
-************************************************/
 package foop.utility;
 
 import java.net.Inet4Address;

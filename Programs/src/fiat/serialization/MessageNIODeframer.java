@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 7
-* Class: CSI 4321
-*
-************************************************/
 package fiat.serialization;
 
 import java.nio.ByteBuffer;

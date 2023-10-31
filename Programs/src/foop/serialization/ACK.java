@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 4
-* Class: CSI 4321
-*
-************************************************/
 package foop.serialization;
 
 import java.io.ByteArrayOutputStream;

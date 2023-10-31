@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 0
-* Class: CSI 4321
-*
-************************************************/
 package fiat.serialization.test;
 
 import static org.junit.Assert.assertFalse;

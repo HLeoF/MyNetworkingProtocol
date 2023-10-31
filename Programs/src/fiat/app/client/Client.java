@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 2
-* Class: CSI 4321
-*
-************************************************/
 package fiat.app.client;
 
 import java.io.IOException;

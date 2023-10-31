@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 3
-* Class: CSI 4321
-*
-************************************************/
 package fiat.app.server;
 
 

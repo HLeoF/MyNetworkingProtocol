@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 8
-* Class: CSI 4321
-*
-************************************************/
 package foop.app.client;
 
 import java.io.ByteArrayOutputStream;

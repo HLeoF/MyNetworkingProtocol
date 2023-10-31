@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 5
-* Class: CSI 4321
-*
-************************************************/
 package foop.app.client;
 
 

@@ -1,10 +1,3 @@
-/************************************************
-*
-* Author: Maiqi Hou
-* Assignment: Program 7
-* Class: CSI 4321
-*
-************************************************/
 package fiat.app.server;
 
 import java.io.ByteArrayInputStream;
